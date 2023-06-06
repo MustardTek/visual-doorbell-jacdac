@@ -35,7 +35,7 @@ The Makers Checklist contains a list of tasks to complete to build the device.
 
 All of the files and individual print files can be in the [insert folder link) folder.
 
-### 3. Assemble the Adaptive Case for PS4 Controller
+### 3. Assemble the Visual Doorbell
 
 Reference the [Assembly Guide](documentation guide pdf) for the tools and steps required to build each portion.
 
