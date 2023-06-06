@@ -1,6 +1,7 @@
 # Visual Doorbell
-The Visual Doorbell is...   
+The Visual Doorbell is...   (insert description)
 
+(main image of visual doorbell)
 <img src="Photos/Device_Photo.jpg" width="500" alt="Picture of a black and gray Adaptive Case for PS4 Controller">
 
 ## More info at
@@ -58,14 +59,16 @@ Reference the [Assembly Guide](documentation guide pdf) for the tools and steps 
 
 ## Attribution
 
-Design: [Cisco](https://www.printables.com/social/28161-cisco/models) posted on [Printables](https://www.printables.com/model/91884-ps4-case-adapter)
+Design: 
 
-Documentation by ??? / Makers Making Change.
+(more attributions)
+
+Documentation by MustardTek / Makers Making Change.
 
 
 
 ## License
-Everything needed or used to design, make, test, or prepare the Adaptive_Case_for_Ps4_Controller is licensed under the CERN 2.0 Permissive license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-P) . 
+Everything needed or used to design, make, test, or prepare the Visual Doorbell is licensed under the CERN 2.0 Permissive license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-P) . 
 
 Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Adaptive_Case_for_Ps4_Controller are published under a Creative Commons Attribution-ShareAlike 4.0 license https://creativecommons.org/licenses/by-sa/4.0/ (CC BY-SA 4.0).
 
