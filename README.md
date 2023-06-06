@@ -1,5 +1,5 @@
-# Adaptive Case for PS4 Controller
-The Adaptive Case for PS4 Controller is an inexpensive and non-destructive controller modification designed to make the stock PS4 controller more accessible. This device aims to assist those with limited hand dexterity by enlarging and spreading out the buttons on the PS4 controller. This device can be mounted to a surface so that both hands can freely operate the controls.   
+# Visual Doorbell
+The Visual Doorbell is...   
 
 <img src="Photos/Device_Photo.jpg" width="500" alt="Picture of a black and gray Adaptive Case for PS4 Controller">
 
@@ -8,14 +8,14 @@ The Adaptive Case for PS4 Controller is an inexpensive and non-destructive contr
 - [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/adaptive-case-for-ps4-controller/)
 
 
-## How to Obtain an Adaptive Case for PS4 Controller
+## How to Obtain a Visual Doorbell
 ### 1. Do it Yourself (DIY) or Do it Together (DIT)
 
-This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the Adaptive Case for PS4 Controller are contained within this repository. Refer to the Maker Checklist below.
+This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the Visual Doorbell are contained within this repository. Refer to the Maker Checklist below.
 
 ### 2. Request a build of this device
 
-If you would like to obtain an Adaptive Case for PS4 Controller , you may submit a build request through the [MMC Library Page](https://makersmakingchange.com/project/adaptive-case-for-ps4-controller/). The requestor is responsible for the cost of materials and any shipping.
+If you would like to obtain a Visual Doorbell, you may submit a build request through the [MMC Library Page](insert link). The requestor is responsible for the cost of materials and any shipping.
 
 ### 3. How to build this device for someone else
 
@@ -32,11 +32,11 @@ The Makers Checklist contains a list of tasks to complete to build the device.
 ### 2. Print the 3D Printable components
 
 
-All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
+All of the files and individual print files can be in the [insert folder link) folder.
 
 ### 3. Assemble the Adaptive Case for PS4 Controller
 
-Reference the [Assembly Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_Assembly_Guide.pdf) for the tools and steps required to build each portion.
+Reference the [Assembly Guide](documentation guide pdf) for the tools and steps required to build each portion.
 
 ## Files
 ### Documentation
@@ -60,12 +60,12 @@ Reference the [Assembly Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_A
 
 Design: [Cisco](https://www.printables.com/social/28161-cisco/models) posted on [Printables](https://www.printables.com/model/91884-ps4-case-adapter)
 
-Documentation by Neil Squire / Makers Making Change.
+Documentation by ??? / Makers Making Change.
 
 
 
 ## License
-Everything needed or used to design, make, test, or prepare theAdaptive_Case_for_Ps4_Controller is licensed under the CERN 2.0 Permissive license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-P) . 
+Everything needed or used to design, make, test, or prepare the Adaptive_Case_for_Ps4_Controller is licensed under the CERN 2.0 Permissive license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-P) . 
 
 Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Adaptive_Case_for_Ps4_Controller are published under a Creative Commons Attribution-ShareAlike 4.0 license https://creativecommons.org/licenses/by-sa/4.0/ (CC BY-SA 4.0).
 
