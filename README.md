@@ -68,7 +68,7 @@ Reference the [Assembly Guide](documentation guide pdf) for the tools and steps 
 
 Design: 
 
-(more attributions)
+(insert attributions)
 
 Documentation by MustardTek / Makers Making Change.
 
