@@ -5,11 +5,11 @@ Visual Doorbell Images:
 
 Doorbell
 
-<img src="Photos/Device_Photo.jpg" width="500" alt="Picture of a black and gray Adaptive Case for PS4 Controller">
+<img src="Photos/Device_Photo.jpg" width="500" alt="alt text pic of doorbell">
 
 Lamp
 
-<img src="Photos/Device_Photo.jpg" width="500" alt="Picture of a black and gray Adaptive Case for PS4 Controller">
+<img src="Photos/Device_Photo.jpg" width="500" alt="alt text pic of lamp">
 
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/adaptive-case-for-ps4-controller)
