@@ -4,9 +4,11 @@ The Visual Doorbell has two components: a doorbell and a lamp. When a delivery p
 Visual Doorbell Images:
 
 Doorbell
+
 <img src="Photos/Device_Photo.jpg" width="500" alt="Picture of a black and gray Adaptive Case for PS4 Controller">
 
 Lamp
+
 <img src="Photos/Device_Photo.jpg" width="500" alt="Picture of a black and gray Adaptive Case for PS4 Controller">
 
 ## More info at
