@@ -1,5 +1,5 @@
 # Visual Doorbell
-The Visual Doorbell has two components: a doorbell and a lamp. When a delivery person or visitor pressed the doorbell, the lamp inside will flash. This device aims to assist those in the Deaf and Hard of Hearing Community by giving them a visual notification that someone is at the door. The lamp also functions as a normal desk lamp with a slider to control the brightness and turn the lamp off, as well as a rotary knob to change the color of the light. 
+This device aims to assist those in the Deaf and Hard of Hearing Community by giving them a visual notification that someone is at the door. When a delivery person or visitor presses the doorbell, the lamp inside will flash. The lamp also functions as a normal desk lamp, with a slider to control the brightness and turn the lamp off, as well as a rotary knob to change the color of the light.
 
 Visual Doorbell Images:
 
