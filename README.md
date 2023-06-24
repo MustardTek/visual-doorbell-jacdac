@@ -56,7 +56,7 @@ Reference the [Assembly Guide](documentation guide pdf) for the tools and steps 
 | 3D Printing Guide    | 1.0     | [Adaptive_Case_for_Ps4_Controller_3D_Printing_Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_3D_Printing_Guide.pdf)   |
 | Assembly Guide       | 1.0     | [Adaptive_Case_for_Ps4_Controller_Assembly_Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_Assembly_Guide.pdf)     |
 | User Guide           | 1.0     | [Adaptive_Case_for_Ps4_Controller_User_Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_User_Guide.pdf)    |
-| Changelog            | 1.0     | [Adaptive_Case_for_Ps4_Controller_Changelog](/Documentation/Adaptive_Case_for_Ps4_Controller_Changelog.pdf)     |
+
 
 ### Design Files
 - [CAD Files](/Design_Files)
