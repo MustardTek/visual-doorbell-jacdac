@@ -58,12 +58,6 @@ Reference the [Assembly Guide](documentation guide pdf) for the tools and steps 
 | User Guide           | 1.0     | [Adaptive_Case_for_Ps4_Controller_User_Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_User_Guide.pdf)    |
 
 
-### Design Files
-- [CAD Files](/Design_Files)
-
-### Build Files
- - [3D Printing Files](/Build_Files/3D_Printing_Files)
-
 ## Attribution
 
 Design: 
