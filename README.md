@@ -39,8 +39,7 @@ The Makers Checklist contains a list of tasks to complete to build the device.
 
 ### 2. Print the 3D Printable components
 
-
-All of the files and individual print files can be in the [insert folder link) folder.
+All of the 3D print files can be found in the [3D Print Files) folder. 
 
 ### 3. Assemble the Visual Doorbell
 
@@ -70,7 +69,7 @@ Design:
 
 (insert attributions)
 
-Documentation by MustardTek / Makers Making Change.
+Documentation by 
 
 
 
