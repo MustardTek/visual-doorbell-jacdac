@@ -64,7 +64,9 @@ Links to the MakeCode can be found in the Assembly Guide. You can also find the 
 ## Attribution
 
 Design by MustardTek. MustardTek is a .... 
- - Website: (www.MustardTek.com)[https://mustardtek.com/]
+ - Website:[www.MustardTek.com](https://mustardtek.com/)
+ -
+ - []
 
 Documentation by MustardTek and Angela Guo. 
 
