@@ -23,11 +23,11 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 2. Request a build of this device
 
-If you would like to obtain a Visual Doorbell, you may submit a build request through the [MMC Library Page](insert link). The requestor is responsible for the cost of materials and any shipping.
+If you would like to obtain a Visual Doorbell, you may submit a build request on the Maker's Making Change Website. The requestor is responsible for the cost of materials and any shipping.
 
 ### 3. How to build this device for someone else
 
-If you have the skills and equipment to build this device, and would like to donate your time to create the switch for someone who needs it, visit the [MMC Maker Wanted](https://makersmakingchange.com/maker-wanted/) section.
+If you have the skills and equipment to build this device, and would like to donate your time to create the Visual Doorbell for someone who needs it, visit the [MMC Maker Wanted](https://makersmakingchange.com/maker-wanted/) section.
 
 
 ## Getting Started
@@ -44,7 +44,7 @@ All of the 3D print files can be found in the [3D Print Files](https://github.co
 
 ### 3. Assemble the Visual Doorbell
 
-Reference the [Assembly Guide](documentation guide pdf) for the tools and steps required to build each portion.
+Reference the (assembly guide) for the tools and steps required to build each portion. 
 
 ## Files
 ### Documentation
@@ -56,6 +56,8 @@ Reference the [Assembly Guide](documentation guide pdf) for the tools and steps 
 | 3D Printing Guide    | 1.0     | [Adaptive_Case_for_Ps4_Controller_3D_Printing_Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_3D_Printing_Guide.pdf)   |
 | Assembly Guide       | 1.0     | [Adaptive_Case_for_Ps4_Controller_Assembly_Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_Assembly_Guide.pdf)     |
 | User Guide           | 1.0     | [Adaptive_Case_for_Ps4_Controller_User_Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_User_Guide.pdf)    |
+
+### Code Files
 
 
 ## Attribution
