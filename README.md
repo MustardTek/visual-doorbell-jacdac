@@ -52,7 +52,7 @@ Reference the (assembly guide) for the tools and steps required to build each po
 |----------------------|---------|------|
 | Design Rationale     | 1.0     | [Adaptive_Case_for_Ps4_Controller_Design_Rationale](/Documentation/Adaptive_Case_for_Ps4_Controller_Design_Rationale.pdf)     |
 | Maker Checklist      | 1.0     | [Adaptive_Case_for_Ps4_Controller_Maker_Checklist](/Documentation/Adaptive_Case_for_Ps4_Controller_Maker_Checklist.pdf)     |
-| Bill of Materials    | 1.0     | [Adaptive_Case_for_Ps4_Controller_Bill_of_Materials](/Documentation/Adaptive_Case_for_Ps4_Controller_BOM.xlsx)     |
+| Bill of Materials    | 1.0     | [Visual Doorbell BOM](https://github.com/MustardTek/visual-doorbell-jacdac/blob/main/Documentation/Visual%20Doorbell%20BOM%2001.xlsx)|
 | 3D Printing Guide    | 1.0     | [Adaptive_Case_for_Ps4_Controller_3D_Printing_Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_3D_Printing_Guide.pdf)   |
 | Assembly Guide       | 1.0     | [Adaptive_Case_for_Ps4_Controller_Assembly_Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_Assembly_Guide.pdf)     |
 | User Guide           | 1.0     | [Adaptive_Case_for_Ps4_Controller_User_Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_User_Guide.pdf)    |
