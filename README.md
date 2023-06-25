@@ -58,17 +58,15 @@ Reference the (assembly guide) for the tools and steps required to build each po
 | User Guide           | 1.0     | [Adaptive_Case_for_Ps4_Controller_User_Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_User_Guide.pdf)    |
 
 ### Code Files
-Links to the MakeCode can be found in the Assembly Guide. You can also find the code files here. 
+Links to the MakeCode can be found in the Assembly Guide. You can also find the code files [here](https://github.com/MustardTek/visual-doorbell-jacdac/tree/main/Code%20Files). 
 
 
 ## Attribution
 
-Design: 
+Design by MustardTek. MustardTek is a .... 
+ - Website: (www.MustardTek.com)[https://mustardtek.com/]
 
-(insert attributions)
-
-Documentation by 
-
+Documentation by MustardTek and Angela Guo. 
 
 
 ## License
