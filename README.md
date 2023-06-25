@@ -23,7 +23,7 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 2. Request a build of this device
 
-If you would like to obtain a Visual Doorbell, you may submit a build request on the Maker's Making Change Website. The requestor is responsible for the cost of materials and any shipping.
+If you would like to obtain a Visual Doorbell, you may submit a build request on the [MMC Website](https://www.makersmakingchange.com/). The requestor is responsible for the cost of materials and any shipping.
 
 ### 3. How to build this device for someone else
 
@@ -58,6 +58,7 @@ Reference the (assembly guide) for the tools and steps required to build each po
 | User Guide           | 1.0     | [Adaptive_Case_for_Ps4_Controller_User_Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_User_Guide.pdf)    |
 
 ### Code Files
+Links to the MakeCode can be found in the Assembly Guide. You can also find the code files here. 
 
 
 ## Attribution
