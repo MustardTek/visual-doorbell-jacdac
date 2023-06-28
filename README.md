@@ -37,7 +37,7 @@ If you have the skills and equipment to build this device, and would like to don
 Read through the Assembly Guide to get an overview of the process of making the Visual Doorbell. Confirm with the user if they would like to use the doorbell with the desk lamp or with the LED.
 
 ### 2. Reference the Bill of Materials to obtain necessary parts and tools
-Find the Bill of Materials here: [Visual Doorbell BOM](https://github.com/MustardTek/visual-doorbell-jacdac/blob/main/Documentation/Visual%20Doorbell%20BOM.xlsx)
+ - [Visual Doorbell BOM](https://github.com/MustardTek/visual-doorbell-jacdac/blob/main/Documentation/Visual%20Doorbell%20BOM.xlsx)
 
 ### 3. Print the 3D Printable components
 
@@ -59,7 +59,7 @@ Connect the doorbell and lamp/LED to power in your home and test to see if the l
 | Assembly Guide       | 1.0     |  |
 
 ### Code Files
-[MakeCode files](https://github.com/MustardTek/visual-doorbell-jacdac/tree/main/Code%20Files). 
+ - [MakeCode files](https://github.com/MustardTek/visual-doorbell-jacdac/tree/main/Code%20Files). 
 
 ## Attribution
 
