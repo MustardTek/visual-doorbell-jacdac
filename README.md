@@ -52,9 +52,9 @@ Reference the Assembly guide to assemble the components and import the code for 
 ### Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Bill of Materials    | 1.0     | [Visual Doorbell BOM](https://github.com/MustardTek/visual-doorbell-jacdac/blob/main/Documentation/Visual%20Doorbell%20BOM%2001.xlsx)|
-| 3D Printing Guide    | 1.0     | [Adaptive_Case_for_Ps4_Controller_3D_Printing_Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_3D_Printing_Guide.pdf)   |
-| Assembly Guide       | 1.0     | [Adaptive_Case_for_Ps4_Controller_Assembly_Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_Assembly_Guide.pdf)     |
+| Bill of Materials    | 1.0     | [Visual Doorbell BOM](https://github.com/MustardTek/visual-doorbell-jacdac/blob/main/Documentation/Visual%20Doorbell%20BOM.xlsx)|
+| 3D Printing Guide    | 1.0     |  |
+| Assembly Guide       | 1.0     |  |
 
 ### Code Files
 You can find the MakeCode files [here](https://github.com/MustardTek/visual-doorbell-jacdac/tree/main/Code%20Files). 
