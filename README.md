@@ -1,15 +1,12 @@
 # Visual Doorbell
 This device aims to assist those in the Deaf and Hard of Hearing Community by giving them a visual notification that someone is at the door. When a delivery person or visitor presses the doorbell, the lamp inside will flash. The lamp also functions as a normal desk lamp, with a slider to control the brightness and turn the lamp off, as well as a rotary knob to change the color of the light.
 
-Visual Doorbell Images:
+Doorbell with Lamp
 
-Doorbell
-
-<img src="Photos/Device_Photo.jpg" width="500" alt="alt text pic of doorbell">
+![doorbell_lamp](https://github.com/MustardTek/visual-doorbell-jacdac/assets/135696572/9fd03793-0f9b-4a4b-832f-39ed13be748c)
 
 Lamp
 
-<img src="Photos/Device_Photo.jpg" width="500" alt="alt text pic of lamp">
 
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/adaptive-case-for-ps4-controller)
