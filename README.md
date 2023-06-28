@@ -1,5 +1,8 @@
 # Visual Doorbell
-This device aims to assist those in the Deaf and Hard of Hearing Community by giving them a visual notification that someone is at the door. When a delivery person or visitor presses the doorbell, the lamp inside will flash. The lamp also functions as a normal desk lamp, with a slider to control the brightness and turn the lamp off, as well as a rotary knob to change the color of the light.
+This device aims to assist those in the Deaf and Hard of Hearing Community by giving them a visual notification that someone is at the door. Users can choose to use the doorbell with either a desk lamp or a smaller LED light. 
+
+When a delivery person or visitor presses the doorbell, the lamp or LED inside will flash white light. The desk lamp also functions as a normal lamp, with a slider to control the brightness and turn the lamp off, as well as a rotary knob to change the color of the light. The LED will only flash when the doorbell is pressed, until the user pushes the button to turn it off. 
+
 
 Doorbell with Lamp
 
@@ -30,16 +33,20 @@ If you have the skills and equipment to build this device, and would like to don
 
 ## Getting Started
 
-### 1. Read the Assembly Guide
-Read the Assembly Guide to get an overview of the process of making the Visual Doorbell.
+### 1. Read the Assembly Guide and confirm customization options with user
+Read through the Assembly Guide to get an overview of the process of making the Visual Doorbell. Confirm with the user if they would like to use the doorbell with the desk lamp or with the LED.
 
-### 2. Print the 3D Printable components
+### 2. Reference the Bill of Materials to obtain necessary parts and tools
 
-All of the 3D print files can be found in the [3D Print Files](https://github.com/MustardTek/visual-doorbell-jacdac/tree/main/3D%20Print%20Files) folder
+### 4. Print the 3D Printable components
 
-### 3. Assemble the Visual Doorbell
+3D print files can be found in the [3D Print Files](https://github.com/MustardTek/visual-doorbell-jacdac/tree/main/3D%20Print%20Files) folder. Photos of 3D printed parts can be found in the [Photos](https://github.com/MustardTek/visual-doorbell-jacdac/tree/main/Photos) folder.
+
+### 5. Assemble the Visual Doorbell
 
 Reference the Assembly guide to assemble the components and import the code for the Visual Doorbell.
+
+### 6. Test the Visual Doorbell
 
 ## Files
 ### Documentation
