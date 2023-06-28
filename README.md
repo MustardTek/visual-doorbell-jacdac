@@ -6,7 +6,7 @@ Doorbell with Lamp
 ![doorbell_lamp](https://github.com/MustardTek/visual-doorbell-jacdac/assets/135696572/9fd03793-0f9b-4a4b-832f-39ed13be748c)
 
 Doorbell with LED
-
+![doorbell_led](https://github.com/MustardTek/visual-doorbell-jacdac/assets/135696572/652ce8fe-c903-43d6-b96e-365c62ae0a42)
 
 
 ## More info at
@@ -31,13 +31,11 @@ If you have the skills and equipment to build this device, and would like to don
 ## Getting Started
 
 ### 1. Read the Assembly Guide
-Read through the Assembly Guide to 
-
+Read the Assembly Guide to get an overview of the process of making the Visual Doorbell.
 
 ### 2. Print the 3D Printable components
 
 All of the 3D print files can be found in the [3D Print Files](https://github.com/MustardTek/visual-doorbell-jacdac/tree/main/3D%20Print%20Files) folder
-
 
 ### 3. Assemble the Visual Doorbell
 
