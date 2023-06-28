@@ -5,7 +5,8 @@ Doorbell with Lamp
 
 ![doorbell_lamp](https://github.com/MustardTek/visual-doorbell-jacdac/assets/135696572/9fd03793-0f9b-4a4b-832f-39ed13be748c)
 
-Lamp
+Doorbell with LED
+
 
 
 ## More info at
@@ -16,7 +17,7 @@ Lamp
 ## How to Obtain a Visual Doorbell
 ### 1. Do it Yourself (DIY) or Do it Together (DIT)
 
-This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the Visual Doorbell are contained within this repository. Refer to the Maker Checklist below.
+This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the Visual Doorbell are contained within this repository. 
 
 ### 2. Request a build of this device
 
@@ -29,9 +30,8 @@ If you have the skills and equipment to build this device, and would like to don
 
 ## Getting Started
 
-### 1. Read the Makers Checklist
-
-The Makers Checklist contains a list of tasks to complete to build the device.
+### 1. Read the Assembly Guide
+Read through the Assembly Guide to 
 
 
 ### 2. Print the 3D Printable components
@@ -41,32 +41,25 @@ All of the 3D print files can be found in the [3D Print Files](https://github.co
 
 ### 3. Assemble the Visual Doorbell
 
-Reference the (assembly guide) for the tools and steps required to build each portion. 
+Reference the Assembly guide to assemble the components and import the code for the Visual Doorbell.
 
 ## Files
 ### Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | [Adaptive_Case_for_Ps4_Controller_Design_Rationale](/Documentation/Adaptive_Case_for_Ps4_Controller_Design_Rationale.pdf)     |
-| Maker Checklist      | 1.0     | [Adaptive_Case_for_Ps4_Controller_Maker_Checklist](/Documentation/Adaptive_Case_for_Ps4_Controller_Maker_Checklist.pdf)     |
 | Bill of Materials    | 1.0     | [Visual Doorbell BOM](https://github.com/MustardTek/visual-doorbell-jacdac/blob/main/Documentation/Visual%20Doorbell%20BOM%2001.xlsx)|
 | 3D Printing Guide    | 1.0     | [Adaptive_Case_for_Ps4_Controller_3D_Printing_Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_3D_Printing_Guide.pdf)   |
 | Assembly Guide       | 1.0     | [Adaptive_Case_for_Ps4_Controller_Assembly_Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_Assembly_Guide.pdf)     |
-| User Guide           | 1.0     | [Adaptive_Case_for_Ps4_Controller_User_Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_User_Guide.pdf)    |
 
 ### Code Files
-Links to the MakeCode can be found in the Assembly Guide. You can also find the code files [here](https://github.com/MustardTek/visual-doorbell-jacdac/tree/main/Code%20Files). 
-
+You can find the MakeCode files [here](https://github.com/MustardTek/visual-doorbell-jacdac/tree/main/Code%20Files). 
 
 ## Attribution
 
-Design by MustardTek. MustardTek is a .... 
+Design by MustardTek. 
  - Website: [www.MustardTek.com](https://mustardtek.com/)
- -
- - []
 
 Documentation by MustardTek and Angela Guo. 
-
 
 ## License
 Everything needed or used to design, make, test, or prepare the Visual Doorbell is licensed under the CERN 2.0 Permissive license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-P) . 
