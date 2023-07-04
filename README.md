@@ -12,17 +12,8 @@ When a delivery person or visitor presses the doorbell, the lamp or LED inside w
 ![doorbell_led](https://github.com/MustardTek/visual-doorbell-jacdac/assets/135696572/652ce8fe-c903-43d6-b96e-365c62ae0a42)
 
 ## How to Obtain a Visual Doorbell
-### 1. Do it Yourself (DIY) or Do it Together (DIT)
 
 This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the Visual Doorbell are contained within this repository. 
-
-### 2. Request a build of this device
-
-If you would like to obtain a Visual Doorbell, you may submit a build request on the [MMC Website](https://www.makersmakingchange.com/). The requestor is responsible for the cost of materials and any shipping.
-
-### 3. How to build this device for someone else
-
-If you have the skills and equipment to build this device, and would like to donate your time to create the Visual Doorbell for someone who needs it, visit the [MMC Maker Wanted](https://makersmakingchange.com/maker-wanted/) section.
 
 
 ## Getting Started
