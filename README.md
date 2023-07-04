@@ -11,12 +11,6 @@ When a delivery person or visitor presses the doorbell, the lamp or LED inside w
 ### Doorbell with LED
 ![doorbell_led](https://github.com/MustardTek/visual-doorbell-jacdac/assets/135696572/652ce8fe-c903-43d6-b96e-365c62ae0a42)
 
-
-## More info at
-- [Makers Making Change Project Page](https://makersmakingchange.com/project/adaptive-case-for-ps4-controller)
-- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/adaptive-case-for-ps4-controller/)
-
-
 ## How to Obtain a Visual Doorbell
 ### 1. Do it Yourself (DIY) or Do it Together (DIT)
 
@@ -67,26 +61,6 @@ Design by MustardTek.
  - Website: [www.MustardTek.com](https://mustardtek.com/)
 
 Documentation by MustardTek and Angela Guo. 
-
-## License
-Everything needed or used to design, make, test, or prepare the Visual Doorbell is licensed under the CERN 2.0 Permissive license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-P) . 
-
-Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Adaptive_Case_for_Ps4_Controller are published under a Creative Commons Attribution-ShareAlike 4.0 license https://creativecommons.org/licenses/by-sa/4.0/ (CC BY-SA 4.0).
-
-
----
-
-## About Makers Making Change
-<img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
-
-Makers Making Change is an initiative of [Neil Squire](https://www.neilsquire.ca/), a Canadian non-profit that empowers people with disabilities.
-
-We are committed to creating a network of volunteer makers who support people with disabilities in their communities through 3D printing assistive devices. Check out our library of free, open-source assistive technologies with parts and build instructions.
-
- - Website: [www.MakersMakingChange.com](https://www.makersmakingchange.com/)
- - GitHub: [https://github.com/makersmakingchange](https://github.com/makersmakingchange)
- - Twitter: [@makermakechange](https://twitter.com/makermakechange)
- - Instagram: [@makersmakingchange](https://www.instagram.com/makersmakingchange)
 
 
 
