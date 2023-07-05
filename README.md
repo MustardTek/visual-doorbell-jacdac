@@ -48,7 +48,7 @@ Connect the doorbell and lamp/LED to power in your home and test to see if the l
 
 ## Attribution
 
-Design by MustardTek. 
+Design by Sara Shang and Adam Liu @ MustardTek. 
 
 Documentation by MustardTek and Angela Guo. 
 
