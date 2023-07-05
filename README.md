@@ -56,4 +56,4 @@ Documentation by MustardTek and Angela Guo.
 
 ## Contact Us
 
-For technical questions, to get involved, or share your experience we encourage you to visit su at [www.MustardTek.com](https://mustardtek.com/) or contact seed@mustardtek.com
+For technical questions, to get involved, or share your experience we encourage you to visit us at [www.MustardTek.com](https://mustardtek.com/) or contact seed@mustardtek.com
