@@ -49,7 +49,6 @@ Connect the doorbell and lamp/LED to power in your home and test to see if the l
 ## Attribution
 
 Design by MustardTek. 
- - Website: [www.MustardTek.com](https://mustardtek.com/)
 
 Documentation by MustardTek and Angela Guo. 
 
@@ -57,4 +56,4 @@ Documentation by MustardTek and Angela Guo.
 
 ## Contact Us
 
-For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Website](https://www.makersmakingchange.com/), [MMC Forum](https://makersmakingchange.com/forum), or contact info@makersmakingchange.com
+For technical questions, to get involved, or share your experience we encourage you to visit su at [www.MustardTek.com](https://mustardtek.com/) or contact seed@mustardtek.com
