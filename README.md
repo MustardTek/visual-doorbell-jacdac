@@ -52,6 +52,7 @@ Design by Sara Shang and Adam Liu @ MustardTek.
 
 Documentation by MustardTek and Angela Guo. 
 
+The documentation template was created by [Neil Squire](https://www.neilsquire.ca/) / [Makers Making Change](https://makersmakingchange.com/) and is used under a CC BY-SA 4.0 license. It is available at the following link: https://github.com/makersmakingchange/OpenAT-Template.
 
 
 ## Contact Us
